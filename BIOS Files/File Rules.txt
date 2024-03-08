@@ -1,0 +1,5 @@
+Put Original Dumped bios into the "Dumped" folder
+Put modified bios files in "modified"
+    Create seperate folders for the V6 and V7 Bios in your archive
+    Zip the Bioses together with one folder containing the 28Q80 for the ITE Chip and another containing Device Bios
+    Please use '.zip', '.7z', or '.tar.gz' files when uploading archive
