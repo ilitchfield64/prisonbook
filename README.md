@@ -15,5 +15,6 @@ TBD
 ## Installing a USB Socket
 TBD
 
-## Installing a SSD and Operating System
-TBD
+## Installing an Operating System
+
+* [Arch Linux](/Operating%20Systems/Arch%20Linux/README.md)
