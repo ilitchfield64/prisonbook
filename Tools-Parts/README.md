@@ -4,19 +4,19 @@
 ## Power Supply
 Belker 36W Universal Power Adapter - [Link](https://www.amazon.com/gp/product/B078LSVVTB/)\
 \
-![Power Supply](/images/universal-psu.jpg)
+![Power Supply](/Tools-Parts/images/universal-psu.jpg)
 
 ## BIOS/UEFI Programming
 CH341A USB Programmer with 1.8V Adapter - [Link](https://www.amazon.com/dp/B07VNVVXW6)\
 \
-![USB Programmer](/images/ch341a-programmer.jpg)
+![USB Programmer](/Tools-Parts/images/ch341a-programmer.jpg)
 
 ## FPC Breakout Board
 10pin FPC Breakout Board with Cables - [Link](https://www.amazon.com/MECCANIXITY-0-5mm-Pitch-2-0mm-Converter/dp/B09V545PT9/)\
 \
-![FPC Breakout](/images/fpc-breakout.jpg)
+![FPC Breakout](/Tools-Parts/images/fpc-breakout.jpg)
 
 ## USB Interface Breakout
 USB Female to DIP Adapters - [Link](https://www.amazon.com/dp/B07W7XMV3W)\
 \
-![USB Breakout](/images/usb-breakout.jpg)
+![USB Breakout](/Tools-Parts/images/usb-breakout.jpg)
