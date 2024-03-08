@@ -8,3 +8,12 @@ Discord Prison Laptop Hacking Discussion on RTC: [Click Here](https://discord.co
 ## Useful Tools and Parts
 This page has several links for purchasing items to get you started with modding the SecureBook 5.\
 [Click Here](/Tools-Parts/)
+
+## BIOS Flashing
+TBD
+
+## Installing a USB Socket
+TBD
+
+## Installing a SSD and Operating System
+TBD
