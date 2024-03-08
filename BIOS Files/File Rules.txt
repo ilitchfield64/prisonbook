@@ -3,3 +3,18 @@ Put modified bios files in "modified"
     Create seperate folders for the V6 and V7 Bios in your archive
     Zip the Bioses together with one folder containing the 28Q80 for the ITE Chip and another containing Device Bios
     Please use '.zip', '.7z', or '.tar.gz' files when uploading archive
+
+Example of rules
+    name-date-#.zip
+    ├── 25LB64C - BIOS FLASH
+    │   └── 25LB64C-name.bin
+    └── 25Q80 - ITE FLASH
+        └── 25Q80-name.bin
+i.e
+sark-030724-1.zip
+├── 25LB64C - BIOS FLASH
+│   └── 25LB64C-sark.bin
+└── 25Q80 - ITE FLASH
+    └── 25Q80-sark.bin
+
+Modified Bioses should follow these rules as well to maintain consitencey and organization
