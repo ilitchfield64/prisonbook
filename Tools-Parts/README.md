@@ -1,5 +1,6 @@
 
 # Useful Tools and Parts for SecureBook 5
+The items listed below will get you started with powering the SecureBook 5, flashing the BIOS to boot from any USB or SATA device, and adding an external USB 2.0 port. 
 
 ## Power Supply
 Belker 36W Universal Power Adapter - [Link](https://www.amazon.com/gp/product/B078LSVVTB/)\
